@@ -33,8 +33,9 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 ## Screenshots
 
 ![Home Page](https://github.com/Chrischrislch/Hydroponics/blob/main/Screenshot%202021-09-07%20at%204.57.31%20PM.png)
-
-![plot](https://github.com/Chrischrislch/Hydroponics/blob/main/Arduino%20overview.png)  
+![plot](https://github.com/Chrischrislch/Hydroponics/blob/main/Dashboard.png)
+![plot](https://github.com/Chrischrislch/Hydroponics/blob/main/Arduino%20overview.png)
+  
 
 ## Guideline:
   
