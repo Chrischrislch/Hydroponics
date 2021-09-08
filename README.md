@@ -56,16 +56,13 @@ After the Quick set up of the InfluxDB and grafana, you can try with the followi
 
 ### Result,
 
-Before running the python, pls remember to install the required libraries.
+Before running the python, pls remember to install the required libraries. <br>
 pip3 install -r - [requirements2.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements2.txt)<br>
 pip install -r - [requirements.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements.txt)
 
+- [Raspberry Pi Code] (https://github.com/Chrischrislch/Hydroponics/blob/main/System.py) <br>
+- [Arduino Code] (https://github.com/Chrischrislch/Hydroponics/blob/main/Hydroponics_system.ino) <br>
 
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
 
 ## Built With
 
@@ -77,13 +74,7 @@ For running the server file on you can use this command.
 
 - [ ] Reliable Storage
 
-## Author
 
-**Chris**
-
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
 
 ## 🤝 Support
 
