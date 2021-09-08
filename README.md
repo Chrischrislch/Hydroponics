@@ -57,7 +57,7 @@ After the Quick set up of the InfluxDB and grafana, you can try with the followi
 ### Result,
 
 Before running the python, pls remember to install the required libraries.
-pip3 install -r - [requirements2.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements2.txt)
+pip3 install -r - [requirements2.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements2.txt)<br>
 pip install -r - [requirements.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements.txt)
 
 
