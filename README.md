@@ -41,7 +41,9 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 | :----------------- | :----------: |
 | S                  |   A2   |
 | +                  |   5V   |
+| -                  |   GND  |
   
+
 
 
 ### Sensor Testing,
