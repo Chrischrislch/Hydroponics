@@ -17,7 +17,7 @@
 
 ![Home Page](/screenshots/1.png "Home Page")
 
-![](/screenshots/2.png)
+![](/Screenshot 2021-09-07 at 4.57.31 PM.png)
 
 ![](/screenshots/3.png)
 
