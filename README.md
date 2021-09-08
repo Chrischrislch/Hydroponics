@@ -44,11 +44,12 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 | -                  |   GND  |
 
 <br>
-| TDS Meter V1.0     | Arduino Nano |
-| :----------------- | :----------: |
-| A                  |   A1   |
-| +                  |   5V   |
-| -                  |   GND  |
+
+| TDS Meter V1.0 | Arduino Nano |
+| :------------- | :-----------:|
+| A              |   A1   |
+| +              |   5V   |
+| -              |   GND  |
 
 
 
