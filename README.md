@@ -22,7 +22,7 @@
 ## Screenshots
 
 ![Home Page](https://github.com/Chrischrislch/Hydroponics/blob/main/Screenshot%202021-09-07%20at%204.57.31%20PM.png)
-
+(https://github.com/Chrischrislch/Hydroponics/blob/main/Arduino%20overview.png)
 
 
 ## Pin connection:
@@ -55,12 +55,9 @@ For running the server file on you can use this command.
 
 ## Built With
 
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
+- C++
+- Python
+- Unix
 
 ## Future Updates
 
