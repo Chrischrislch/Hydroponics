@@ -36,6 +36,10 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 ##Guideline:
   
 ## Pin connection:
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| git status   |   git status   |    git status |
+| git diff     |    git diff    |      git diff |
 
 ### Sensor Testing,
 
@@ -50,7 +54,7 @@ To find the corresponding USB port name, pls type "ls  /dev/ttyUSB*" in the Rasp
 
 ### InfluxDB testing,
 
-After the Quick set up of the InfluxDB and grafana, you can try with the following coed:  
+After the Quick set up of the InfluxDB and grafana, you can try with the following code:  
 - [Code](https://github.com/Chrischrislch/Hydroponics/blob/main/DBtest.py)
 
 
