@@ -1,8 +1,7 @@
 # Hydroponics
 
 <h1 align="center"><Hydroponics System></h1>
-<p align="center"><In this project, the raspberry pi 4B will be the controller of the Hydroponics System which connected to the Arduino Nano with the sensors and water pumps. The sensor data will trasfer throught the IoT grafana and InflexDB.>
-VNC will be used in order to remote the Raspberry Pi </p>
+<p align="center"><In this project, the raspberry pi 4B will be the controller of the Hydroponics System which connected to the Arduino Nano with the sensors and water pumps. The sensor data will trasfer throught the IoT grafana and InflexDB. VNC will be used in order to remote the Raspberry Pi></p>
 
 ## Links
 
