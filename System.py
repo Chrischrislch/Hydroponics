@@ -40,7 +40,7 @@ def email():
 ifuser = "grafana"
 ifpass = "<password>"
 ifdb   = "home"
-ifhost = "192.168.0.252"
+ifhost = "yourip"
 ifport = 8086
 #email()
  
