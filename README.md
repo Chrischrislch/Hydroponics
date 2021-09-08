@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-![Home Page](/Screenshot 2021-09-07 at 4.57.31 PM.png "Home Page")
+![Home Page](https://github.com/Chrischrislch/Hydroponics/blob/main/Screenshot%202021-09-07%20at%204.57.31%20PM.png)
 
 ![](/Screenshot 2021-09-07 at 4.57.31 PM.png)
 
