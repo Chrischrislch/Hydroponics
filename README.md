@@ -93,7 +93,7 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 
 ### Serial communication between Arduino and Raspberry Pi,
 
-In the Arduino IDE, open the Serial Monitor
+In the Arduino IDE, open the Serial Monitor <br>
 To find the corresponding USB port name, pls type "ls  /dev/ttyUSB*" in the Raspberry Pi Terminal.
 
 - [Code](https://github.com/Chrischrislch/Hydroponics/tree/main/SerialTest)
