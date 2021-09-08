@@ -50,8 +50,38 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 | A              |   A1   |
 | +              |   5V   |
 | -              |   GND  |
+  
+<br>
 
-
+| pH Meter V1.1 | Arduino Nano |
+| :------------ | :----------: |
+| A             |   A0   |
+| +             |   5V   |
+| -             |   GND  |
+  
+<br>
+  
+| Temperature and Humidity (DHT22) | Arduino Nano |
+| :------------------------------- | :----------: |
+| OUT                              |   D4   |
+| +                                |   5V   |
+| -                                |   GND  |
+  
+<br>
+  
+| JQC-3FF-S-Z (WaterPump) | Arduino Nano |
+| :---------------------  | :----------: |
+| IN                      |   D6         |
+| VCC                     |   5V         |
+| GND                     |   GND        |
+  
+<br>
+  
+| JQC-3FF-S-Z (MixturePump) | Arduino Nano |
+| :------------------------ | :----------: |
+| IN                        |   D7         |
+| VCC                       |   5V         |
+| GND                       |   GND        |
 
 
 ### Sensor Testing,
