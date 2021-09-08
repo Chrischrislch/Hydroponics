@@ -1,7 +1,18 @@
 # Hydroponics
 
 <h1 align="center"><Hydroponics System></h1>
+<p align="center"><In this project, the raspberry pi 4B will be the controller of the Hydroponics System which connected to the Arduino Nano with the sensors and water pumps. The sensor data will trasfer throught the IoT grafana and InflexDB.>
+VNC will be used in order to remote the Raspberry Pi </p>
 
+## Links
+
+- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+
+- [Live](<Homepage url> "Live View")
+
+- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+
+- [API](<API Link> "API")
 
 ## Equipments:
 
@@ -32,12 +43,14 @@ In the project directory, you can run:
 
 ### Sensor Testing:
 
-- [Arduino Code] (https://github.com/Chrischrislch/Hydroponics/tree/main/Sensor%20testing)
+- [Arduino Code](https://github.com/Chrischrislch/Hydroponics/tree/main/Sensor%20testing)
 
+### Serial communication between Arduino and Raspberry Pi,
 
-### `"npm run build": "react-scripts build"`,
+In the Arduino IDE, open the Serial Monitor
+To find the corresponding USB port name, pls type "ls  /dev/ttyUSB*" in the Raspberry Pi Terminal.
 
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
+-[Code](https://github.com/Chrischrislch/Hydroponics/tree/main/SerialTest)
 
 ### `"npm run test": "react-scripts test"`,
 
