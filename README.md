@@ -17,15 +17,16 @@
 
 - pH value sensor
   
+- Water pump X2
+  
 ## Screenshots
 
 ![Home Page](https://github.com/Chrischrislch/Hydroponics/blob/main/Screenshot%202021-09-07%20at%204.57.31%20PM.png)
 
-![](/Screenshot 2021-09-07 at 4.57.31 PM.png)
 
-![](/screenshots/3.png)
 
-## Available Commands
+## Pin connection:
+  
 
 In the project directory, you can run:
 
@@ -67,7 +68,7 @@ For running the server file on you can use this command.
 
 ## Author
 
-**Rohit Jain**
+**Chris**
 
 - [Profile](https://github.com/rohit19060 "Rohit jain")
 - [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
