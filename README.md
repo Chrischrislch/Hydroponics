@@ -7,6 +7,8 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 
 - [VNC](https://www.realvnc.com/en/connect/download/viewer/)
 
+- [Arduino IDE](https://www.arduino.cc/en/software)
+
 - [InfluxDB and Grafana Quick start](https://simonhearne.com/2020/pi-influx-grafana/)
 
 
