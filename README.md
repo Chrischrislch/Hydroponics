@@ -7,7 +7,7 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 
 - [VNC](https://www.realvnc.com/en/connect/download/viewer/)
 
-- [InfluxDB and Grafana quick start](https://simonhearne.com/2020/pi-influx-grafana/)
+- [InfluxDB and Grafana Quick start](https://simonhearne.com/2020/pi-influx-grafana/)
 
 
 ## Equipments:
@@ -35,9 +35,9 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 ## Pin connection:
   
 
-In the project directory, you can run:
+Guideline:
 
-### Sensor Testing:
+### Sensor Testing,
 
 - [Arduino Code](https://github.com/Chrischrislch/Hydroponics/tree/main/Sensor%20testing)
 
@@ -48,9 +48,11 @@ To find the corresponding USB port name, pls type "ls  /dev/ttyUSB*" in the Rasp
 
 -[Code](https://github.com/Chrischrislch/Hydroponics/tree/main/SerialTest)
 
-### `"npm run test": "react-scripts test"`,
+### InfluxDB testing,
 
-Launches the test runner in the interactive watch mode.
+After the Quick set up of the InfluxDB and grafana, you can try with the following coed:  
+-[Code](https://github.com/Chrischrislch/Hydroponics/blob/main/DBtest.py)
+
 
 ### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
 
