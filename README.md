@@ -35,11 +35,14 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 
 ##Guideline:
   
-## Pin connection:
-| Left-aligned | Center-aligned | Right-aligned |
-| :----------- | :------------: | ------------: |
-| git status   |   git status   |    git status |
-| git diff     |    git diff    |      git diff |
+### Pin connection:
+  
+| Water Level Sensor | Arduino Nano |
+| :----------------- | :----------: |
+| S                  |   A2   |
+| +                  |   5V   |
+  
+
 
 ### Sensor Testing,
 
