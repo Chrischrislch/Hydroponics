@@ -3,16 +3,20 @@
 <h1 align="center"><Hydroponics System></h1>
 
 
-## Links
+## Equipments:
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- Raspberry Pi 4B 4GB
 
-- [Live](<Homepage url> "Live View")
+- Arduino Nano
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+- Water level sensor
 
-- [API](<API Link> "API")
+- DHT22 temperature-humidity sensor
+  
+- TDS sensor
 
+- pH value sensor
+  
 ## Screenshots
 
 ![Home Page](https://github.com/Chrischrislch/Hydroponics/blob/main/Screenshot%202021-09-07%20at%204.57.31%20PM.png)
