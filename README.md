@@ -31,11 +31,11 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 ![Home Page](https://github.com/Chrischrislch/Hydroponics/blob/main/Screenshot%202021-09-07%20at%204.57.31%20PM.png)
 (https://github.com/Chrischrislch/Hydroponics/blob/main/Arduino%20overview.png)
 
-![plot](https://github.com/Chrischrislch/Hydroponics/blob/main/Arduino%20overview.png)
-## Pin connection:
-  
+![plot](https://github.com/Chrischrislch/Hydroponics/blob/main/Arduino%20overview.png)  
 
-Guideline:
+##Guideline:
+  
+## Pin connection:
 
 ### Sensor Testing,
 
@@ -46,17 +46,20 @@ Guideline:
 In the Arduino IDE, open the Serial Monitor
 To find the corresponding USB port name, pls type "ls  /dev/ttyUSB*" in the Raspberry Pi Terminal.
 
--[Code](https://github.com/Chrischrislch/Hydroponics/tree/main/SerialTest)
+- [Code](https://github.com/Chrischrislch/Hydroponics/tree/main/SerialTest)
 
 ### InfluxDB testing,
 
 After the Quick set up of the InfluxDB and grafana, you can try with the following coed:  
--[Code](https://github.com/Chrischrislch/Hydroponics/blob/main/DBtest.py)
+- [Code](https://github.com/Chrischrislch/Hydroponics/blob/main/DBtest.py)
 
 
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
+### Result,
 
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
+Before running the python, pls remember to install the required libraries.
+pip3 install -r - [requirements2.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements2.txt)
+pip install -r - [requirements.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements.txt)
+
 
 ### `"serve": "node server"`
 
