@@ -42,9 +42,9 @@ def email():
   mailserver.quit()
 
 # You can generate a Token from the "Tokens Tab" in the UI
-token = "o1KSYBbkgcEF8T_-M5lW5ZWzgQ9S7AJkxUQIMbnah4Gjym3ZGHXJ8pCN-AS-7tQfEiIq_X4c0pGPiXpbKHqdnQ=="
-org = "4c3e6e48080df88a"
-bucket = "Water"
+token = "your Tokens"
+org = "your org"
+bucket = "your bucket"
 client = InfluxDBClient(url="https://ap-southeast-2-1.aws.cloud2.influxdata.com", token=token)
 write_api = client.write_api(write_options=SYNCHRONOUS)
 #write_api = client.write_api()
