@@ -2,7 +2,7 @@
 
 <h1 align="center"><Hydroponics System></h1>
   
-In this project, the Raspberry pi 4B will be the controller of the Hydroponics System which connected to the Arduino Nano with the sensors and water pumps. The sensor data will trasfer throught the IoT grafana and InflexDB. VNC will be used in order to remote the Raspberry Pi
+In this project, the Raspberry pi 4B will be the controller of the Hydroponics System which connected to the Arduino Nano with the sensors and water pumps. The sensor data will trasfer throught the IoT grafana and InflexDB cloud or InflexDB. VNC will be used in order to remote the Raspberry Pi
 
 ## Links
 
@@ -11,6 +11,8 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
 - [InfluxDB and Grafana Quick start](https://simonhearne.com/2020/pi-influx-grafana/)
+
+- [InfluxDB cloud and Grafana Quick start](https://docs.influxdata.com/influxdb/cloud/tools/grafana/)
 
 
 ## Equipments:
@@ -99,6 +101,10 @@ In the Arduino IDE, open the Serial Monitor <br>
 To find the corresponding USB port name, pls type "ls  /dev/ttyUSB*" in the Raspberry Pi Terminal.
 
 - [Code](https://github.com/Chrischrislch/Hydroponics/tree/main/SerialTest)
+  
+### InfluxDB Cloud testing,
+
+- [Code](https://github.com/Chrischrislch/Hydroponics/blob/main/InfluxdbCloud.py)
 
 ### InfluxDB testing,
 
@@ -122,6 +128,7 @@ pip install -r - [requirements.txt](https://github.com/Chrischrislch/Hydroponics
 - C++
 - Python
 - Unix
+- Database
 
 ## Future Updates
 
