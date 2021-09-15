@@ -62,7 +62,7 @@ In this project, the Raspberry pi 4B will be the controller of the Hydroponics S
 
 | pH Meter V1.1 | Arduino Nano |
 | :------------ | :----------: |
-| A             |   A0   |
+| P0            |   A0   |
 | +             |   5V   |
 | -             |   GND  |
   
