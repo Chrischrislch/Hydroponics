@@ -119,7 +119,7 @@ pip3 install -r - [requirements2.txt](https://github.com/Chrischrislch/Hydroponi
 pip install -r - [requirements.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements.txt)
 
 - [Raspberry Pi Code](https://github.com/Chrischrislch/Hydroponics/blob/main/System.py) <br>
-- [Arduino Code](https://github.com/Chrischrislch/Hydroponics/blob/main/Hydroponics_system.ino) <br>
+- [Arduino Code](https://github.com/Chrischrislch/Hydroponics/blob/main/Hydroponics-system(New).ino) <br>
 - [PiCam (Optional)](https://github.com/Chrischrislch/Hydroponics/blob/main/cam.py) <br>
   - Demo: http://yourip:8000
 
