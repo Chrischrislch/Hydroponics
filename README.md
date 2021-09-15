@@ -116,10 +116,8 @@ After the Quick set up of the InfluxDB and grafana, you can try with the followi
 
 Before running the python, pls remember to install the required libraries. <br>
 pip3 install -r - [requirements2.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements2.txt)<br>
-pip install -r - [requirements.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements.txt)
 
-- [Raspberry Pi Code](https://github.com/Chrischrislch/Hydroponics/blob/main/System.py) <br>
-- [Code](https://github.com/Chrischrislch/Hydroponics/blob/main/InfluxdbCloud.py)
+- [Raspberry Pi Code](https://github.com/Chrischrislch/Hydroponics/blob/main/InfluxdbCloud.py)
 - [Arduino Code](https://github.com/Chrischrislch/Hydroponics/blob/main/Hydroponics-System(New).ino) <br>
 - [PiCam (Optional)](https://github.com/Chrischrislch/Hydroponics/blob/main/cam.py) <br>
   - Demo: http://yourip:8000
