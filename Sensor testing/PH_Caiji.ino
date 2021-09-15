@@ -1,7 +1,7 @@
 /*
  # This sample code is used to test the pH meter Pro V1.0.
 */
-#define SensorPin A1            //pH meter Analog output to Arduino Analog Input 1
+#define SensorPin A0            //pH meter Analog output to Arduino Analog Input 1
 #define Offset 21.677           //deviation compensate
 #define LED 13
 #define samplingInterval 20
