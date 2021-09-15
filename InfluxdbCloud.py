@@ -84,7 +84,7 @@ while True:
         point = Point("temp") \
         .tag("host", "host1") \
         .field("humidity", hum) \
-        .field("tempature", temp) \
+        .field("temperature", temp) \
         .field("water_level", waterlvl) \
         .field("tds", tds) \
         .field("ph", ph)
