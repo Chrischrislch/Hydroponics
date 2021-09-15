@@ -103,8 +103,8 @@ To find the corresponding USB port name, pls type "ls  /dev/ttyUSB*" in the Rasp
 - [Code](https://github.com/Chrischrislch/Hydroponics/tree/main/SerialTest)
   
 ### InfluxDB Cloud testing,
+- [Code](https://github.com/Chrischrislch/Hydroponics/blob/main/testcl.py)
 
-- [Code](https://github.com/Chrischrislch/Hydroponics/blob/main/InfluxdbCloud.py)
 
 ### InfluxDB testing,
 
@@ -119,6 +119,7 @@ pip3 install -r - [requirements2.txt](https://github.com/Chrischrislch/Hydroponi
 pip install -r - [requirements.txt](https://github.com/Chrischrislch/Hydroponics/blob/main/requirements.txt)
 
 - [Raspberry Pi Code](https://github.com/Chrischrislch/Hydroponics/blob/main/System.py) <br>
+- [Code](https://github.com/Chrischrislch/Hydroponics/blob/main/InfluxdbCloud.py)
 - [Arduino Code](https://github.com/Chrischrislch/Hydroponics/blob/main/Hydroponics-System(New).ino) <br>
 - [PiCam (Optional)](https://github.com/Chrischrislch/Hydroponics/blob/main/cam.py) <br>
   - Demo: http://yourip:8000
