@@ -174,7 +174,7 @@ void loop() {
   {
       pHArray[pHArrayIndex++]=analogRead(phSensorPin);
       if(pHArrayIndex==ArrayLenth)pHArrayIndex=0;
-      voltage = avergearray(pHArray, ArrayLenth)*5.0/1024;
+      voltage = avergearray(pHArray, ArrayLenth)*2.5/1024;
       pHValue = -5.8887*voltage+Offset;
       if(pHValue<=0.0){pHValue=0.0;}
       if(pHValue>14.0){pHValue=14.0;}
